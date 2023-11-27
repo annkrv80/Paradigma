@@ -1,4 +1,3 @@
-from functools import reduce
 from statistics import mean
 
 
